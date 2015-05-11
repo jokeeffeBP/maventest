@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "This is Maven" );
         System.out.println("This is Jenkins");
+        System.out.println("This is Java");
     }
 }
