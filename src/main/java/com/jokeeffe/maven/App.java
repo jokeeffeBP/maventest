@@ -14,5 +14,6 @@ public class App
         System.out.println("This is Java");
         System.out.println("This is the fifth line!");
         System.out.println("This is the sixth line!");
+        System.out.println("This is the seventh line");
     }
 }
