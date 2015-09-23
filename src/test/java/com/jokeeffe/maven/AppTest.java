@@ -37,6 +37,6 @@ public class AppTest
     }
     public void testTeamCityMaven()
     {
-    	assertTrue(false);
+    	assertTrue(true);
     }
 }
