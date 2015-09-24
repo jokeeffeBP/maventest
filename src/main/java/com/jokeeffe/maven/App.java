@@ -12,5 +12,6 @@ public class App
         System.out.println( "This is Maven" );
         System.out.println("This is Jenkins");
         System.out.println("This is Java");
+        System.out.println("This is now in TeamCity");
     }
 }
