@@ -13,5 +13,11 @@ public class App
         System.out.println("This is Jenkins");
         System.out.println("This is Java");
         System.out.println("This is now in TeamCity");
+        
+        int x,y;
+        Calculator c = new Calculator();
+        x = 4;
+        y = 6;
+        System.out.println(c.Add(x,y));
     }
 }

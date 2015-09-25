@@ -39,4 +39,9 @@ public class AppTest
     {
     	assertTrue(true);
     }
+    public void testCalculator()
+    {
+    	Calculator c = new Calculator();
+    	assertEquals(12, c.Add(3, 9));
+    }
 }
